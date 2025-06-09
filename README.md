@@ -1,5 +1,3 @@
-# field-demonstrations-HVAC-MPC-RL
-
 This repository is a companion to the paper:
 
 **"Lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial HVAC: A review."**
