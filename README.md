@@ -17,6 +17,8 @@ To cite this paper, please use the following:
 }
 ```
 
+---
+
 This repository includes two spreadsheets:
 
 - **Field Demonstration Raw Data**  
