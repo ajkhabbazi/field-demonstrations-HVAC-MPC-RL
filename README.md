@@ -17,4 +17,10 @@ To cite this paper, please use the following:
 }
 ```
 
-This repository contains two spreadsheets. The first spreadsheet, "Field Demonstration Raw Data," contains the raw data from our analysis of 104 papers on field demonstrations of MPC and RL for HVAC. The second spreadsheet, "Field Demonstration Checklist," contains a checklist of recommended experiment protocols for future field demonstrations.
+This repository includes two spreadsheets:
+
+- **Field Demonstration Raw Data**  
+  Contains the raw data from our analysis of 104 papers on field demonstrations of MPC and RL for HVAC.
+
+- **Field Demonstration Checklist**  
+  Provides a checklist of recommended experiment protocols to guide future field demonstrations.
