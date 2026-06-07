@@ -51,6 +51,11 @@ This repository provides open-access data to support transparency and reproducib
 
 ## Citation
 
+> Khabbazi, A.J., Pergantis, E.N., Reyes Premer, L.D., Papageorgiou, P., Lee, A.H., Braun, J.E., Henze, G.P., & Kircher, K.J. (2025).
+> **Lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial HVAC: A review.**
+> *Applied Energy*, 399, 126459.
+> https://doi.org/10.1016/j.apenergy.2025.126459
+
 ```bibtex
 @article{khabbazi2025lessons,
   title   = {Lessons learned from field demonstrations of model predictive control
