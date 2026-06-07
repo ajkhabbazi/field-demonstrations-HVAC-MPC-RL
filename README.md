@@ -22,7 +22,7 @@ This paper provides the **most comprehensive review to date** of peer-reviewed f
 
 ---
 
-## Key Highlights
+## Key highlights
 
 - **Scope of the review.** We identified and analyzed all known peer-reviewed field demonstrations of MPC and RL for HVAC published between 1997 and 2025 — 24 residential papers (52 tests) and 80 commercial papers (154 tests) across multiple continents and climate zones.
 
@@ -38,7 +38,7 @@ This paper provides the **most comprehensive review to date** of peer-reviewed f
 
 ---
 
-## Repository Contents
+## Repository contents
 
 This repository provides open-access data to support transparency and reproducibility.
 
