@@ -78,4 +78,4 @@ This repository provides open-access data to support transparency and reproducib
 For questions about the paper or data, please reach out to the corresponding author:
 
 **Arash J. Khabbazi** — School of Mechanical Engineering, Purdue University
-[arashjkh@purdue.edu](mailto:arashjkh@purdue.edu)
+[arashjkh@gmail.com](mailto:arashjkh@gmail.com)
