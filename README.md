@@ -52,7 +52,7 @@ This repository provides open-access data to support transparency and reproducib
 ## Citation
 
 ```bibtex
-@article{Khabbazi2025FieldHVAC,
+@article{khabbazi2025lessons,
   title   = {Lessons learned from field demonstrations of model predictive control
              and reinforcement learning for residential and commercial {HVAC}: {A} review},
   author  = {Khabbazi, Arash J. and Pergantis, Elias N. and {Reyes Premer}, Levi D.
